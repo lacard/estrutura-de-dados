@@ -1,2 +1,0 @@
-# estrutura-de-dados
-mapa
