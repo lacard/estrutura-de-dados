@@ -1,0 +1,11 @@
+# estrutura-de-dados
+mapa
+Ordenação Quicksort
+ 
+​O Quicksort é o algoritmo mais eficiente na ordenação por comparação. Nele se escolhe um elemento chamado de pivô, a partir disto é organizada a lista para que todos os números anteriores a ele sejam menores que ele, e todos os números posteriores a ele sejam maiores que ele. Ao final desse processo o número pivô já está em sua posição final. Os dois grupos desordenados recursivamente sofreram o mesmo processo até que a lista esteja ordenada
+Com base no exposto, desenvolva um programa em linguagem C que cumpra os seguintes requisitos.
+1. Crie um vetor com 8 posições.
+2. Cada posição corresponde aos dígitos do seu RA.
+3. Exiba o vetor preenchido.
+4. Aplique o algoritmo de ordenação Quicksort.
+5. Exiba o vetor ordenado.
